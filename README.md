@@ -22,7 +22,7 @@ Author: **Joan Njoki**
 * Scikit Learn
 ---
 ## Project Description
->Hypothyroid is a condition prevalent among women which occurs when the thyroid glands dont produce enough hormones sufficient for the body. Inadequate production of these hormones leads to slow body activity. This analysis will bring to light symptoms that can easily go unnoticed. Given there is no cure for it, it is essential to narrow down individuals likely to have hypothyroidism.
+>Hypothyroid is a condition prevalent among women which occurs when the thyroid glands dont produce enough hormones sufficient for the body. Inadequate production of these hormones lowers body activity. This analysis will bring to light symptoms that can easily go unnoticed. Given there is no cure for it, it is essential to narrow down individuals likely to have hypothyroidism.
 
 ---
 ## Featured Notebooks
